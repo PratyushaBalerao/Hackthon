@@ -1,2 +1,2 @@
-•	Developed an AI-powered platform that utilizes LLMs and a custom heuristic-based greedy algorithm to intelligently assign judges to student posters, skillfully managing complexities like expertise alignment and availability constraints.
-•	Collaborated with a team to develop and deploy a production-ready solution that automated and error-proofed the previously manual process of matching professors with posters for an annual competition, enhancing operational efficiency.
+Developed an AI-powered platform that utilizes LLMs and a custom heuristic-based greedy algorithm to intelligently assign judges to student posters, skillfully managing complexities like expertise alignment and availability constraints.
+Collaborated with a team to develop and deploy a production-ready solution that automated and error-proofed the previously manual process of matching professors with posters for an annual competition, enhancing operational efficiency.
